@@ -1,6 +1,6 @@
 library(tidyverse)
 library(here)
-set_here(path='/Users/kudrzycb/polybox/Youth Employment/1b Index/youth-lmi')
+#set_here(path='/Users/kudrzycb/polybox/Youth Employment/1b Index/youth-lmi')
 #library(lamadex, lib("./lamadex/lamadex")) ##load lamadex package
 devtools::load_all(here())
 
